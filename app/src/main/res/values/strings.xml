@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Second ass</string>
+    <string name="hint">User Name</string>
+    <string name="passwordHint">Password</string>
+    <string name="log_inButton">Log in</string>
+    <string name="welcomeMessage">Welcome to my 2nd Assignment</string>
+    <string name="mainPage">Welcome here , u can find 2 pages of free online Games</string>
+    <string name="mainActv">Main Page</string>
+    <string name="firstPage">1st Page</string>
+    <string name="secondPage">2nd Page</string>
+    <string name="textViewThirdActv">Thx for comming so far !! \nhere u can find some of random online games\njust click the button</string>
+    <string name="clickMe" />
+    <string name="clickMee">Click Me</string>
+    <string name="textViewForthActv">"Thx for comming so far !!\nhere u can find some Power games\ just click the button "</string>
+    <string name="rememberMe">Remember Me</string>
+</resources>
